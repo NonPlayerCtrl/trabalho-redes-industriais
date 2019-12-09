@@ -22,7 +22,7 @@
 
 ## Máquina virtual rodando no AWS
 ### IP(s)
-* 10.8.0.1
+* 10.8.0.1 na interface tun0
 ### Funcionalidade(s)
 * Executa o servidor VPN usando UDP na porta 1194
 * Executa o sistema supervisório no ScadaBR usando a porta 9090
