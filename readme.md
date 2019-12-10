@@ -37,4 +37,19 @@ Inicialmente deve-se ligar o access-point que conecta os ESP32 e a Raspberry. Em
 O usuáruo 'guest' (senha: 'guest'), pode apenas visualizar a interface gráfica do Scada. Os valores de setpoint podem variar de 0 a 100%.
 
 # Video do funcionamento
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kNsTYPjsdZ0/0.jpg)](https://www.youtube.com/watch?v=kNsTYPjsdZ0)
+
+# Pastas do repositório
+
+  <code>configurações_aws-ec2/</code>
+  
+  Contém imagens indicando as configurações gerais da instância, regras de entrada do firewall, configuração de ip fixo (Elastic IP);
+  
+  <code>openplc/</code>
+  
+  Contém os códigos do master, dos escravos e a configuração de endereço dos escravos;
+  
+  <code>scada/</code>
+  
+  Contém o projeto do supervisório no ScadaBR e as configurações de endereçamento dos datapoints no Modbus IP.
