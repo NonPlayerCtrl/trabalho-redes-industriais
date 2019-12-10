@@ -35,3 +35,6 @@ Inicialmente deve-se ligar o access-point que conecta os ESP32 e a Raspberry. Em
   * Abrir/Fechar a malha
   * Sinal de controle (modo malha aberta apenas)
 O usuáruo 'guest' (senha: 'guest'), pode apenas visualizar a interface gráfica do Scada. Os valores de setpoint podem variar de 0 a 100%.
+
+# Video do funcionamento
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kNsTYPjsdZ0/0.jpg)](https://www.youtube.com/watch?v=kNsTYPjsdZ0)
